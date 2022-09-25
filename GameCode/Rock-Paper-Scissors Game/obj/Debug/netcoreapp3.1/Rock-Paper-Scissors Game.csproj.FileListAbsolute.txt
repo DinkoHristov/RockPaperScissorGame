@@ -1,0 +1,14 @@
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.exe
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.deps.json
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.runtimeconfig.json
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.runtimeconfig.dev.json
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.dll
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.pdb
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.csproj.AssemblyReference.cache
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.AssemblyInfoInputs.cache
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.AssemblyInfo.cs
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.dll
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.pdb
+D:\SoftUni\C#Code\C# Fundamentals\Rock-Paper-Scissors Game\Rock-Paper-Scissors Game\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors Game.genruntimeconfig.cache
